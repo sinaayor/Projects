@@ -1,5 +1,5 @@
 
-CREATE DATABASE shinene;
+CREATE DATABASE merill_database;
 USE merill_database;
 
 CREATE TABLE customerDetails(
